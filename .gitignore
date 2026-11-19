@@ -1,0 +1,15 @@
+# Repos de l'équipe (versionnés à part)
+kommit-backend/
+kommit-frontend/
+
+# Config Claude locale
+.claude/settings.local.json
+
+# Fichiers Windows/WSL
+*:Zone.Identifier
+Thumbs.db
+desktop.ini
+
+# OS / éditeurs
+.DS_Store
+*.swp
